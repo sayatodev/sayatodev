@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai9073&show_icons=true&locale=en&layout=compact" alt="kai9073" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai9073&show_icons=true&locale=en" alt="kai9073" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai9073&" alt="kai9073" /></p>
