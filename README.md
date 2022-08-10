@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">A student who enjoys coding</h3>
+<h3 align="center">A student who enjoys coding... <i>THISSSSSS MUCH!</i></h3>
 
 <p align="center">
 🌱 I’m currently learning <strong>C#</strong><br>
