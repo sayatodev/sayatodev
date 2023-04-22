@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayako!</h1>
+<h1 align="center">Hi 👋, I'm Ma Zheng Qing(Sayako)!</h1>
 <h3 align="center">A student who enjoys coding... <i>THISSSSSS MUCH!</i></h3>
 
 <p align="center">
