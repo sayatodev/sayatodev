@@ -2,7 +2,7 @@
 <h3 align="center">A student who enjoys coding... <i>THISSSSSS MUCH!</i></h3>
 
 <p align="center">
-🌱 I’m currently learning <strong>C#</strong><br>
+🌱 I’m currently learning <strong>NextJS</strong><br>
 📫 Reach me at <a href="mailto:amf.kano@gmail.com"><strong>amf.kano@gmail.com</strong></a><br>
 ⚡ Fun fact: <i><b>I started learning to code during the COVID-19 pandemic!</b></i>
 </p>
