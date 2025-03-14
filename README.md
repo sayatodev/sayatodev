@@ -1,5 +1,6 @@
 <h1 align="center">おっす！さやとです！</h1>
 <h3 align="center">A secondary school student in Hong Kong</h3>
+<p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N2)</p> 
 
 <p align="center">
 🌱 I’m currently learning <strong>VueJS</strong><br>
