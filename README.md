@@ -3,7 +3,7 @@
 <p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N2)</p> 
 
 <p align="center">
-🌱 I’m currently learning <strong>VueJS</strong><br>
+🌱 I’m currently learning how to write interpreters on <strong><a href="https://github.com/munificent/craftinginterpreters">Crafting Interpreters</a></strong><br>
 📫 Reach me at <a href="mailto:isaacma.zq+sayato@gmail.com"><strong>isaacma.zq@gmail.com</strong></a><br>
 ⚡ Fun fact: <i><b>My journey of programming started during the COVID-19 pandemic!</b></i>
 </p>
