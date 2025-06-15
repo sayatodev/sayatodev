@@ -1,5 +1,7 @@
-<h1 align="center">おっす！さやとです！</h1>
-<p style="font-size:8px" align="center">Hi there! I'm Sayato.</p>
+<h1 align="center">
+おっす！さやとです！<br>
+<p style="font-size:8px">Hi there! I'm Sayato.</p>
+</h1>
 <h3 align="center">A secondary school student in Hong Kong</h3>
 <p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N2)</p> 
 
