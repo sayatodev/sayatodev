@@ -33,5 +33,9 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayatodev&theme=nord_dark"></p>  
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayatodev&theme=nord_dark">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayatodev&theme=nord_dark&utcOffset=8"></p>
 
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/sayatodev/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/sayatodev/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/sayatodev/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<p align="center">
+Check out potentially cooler people on <a href="https://octo-ring.com/">Octo Ring</a> [
+<a href="https://octo-ring.com/p/sayatodev/prev">Prev</a> | 
+<a href="https://octo-ring.com/p/sayatodev/random">Random</a> | 
+<a href="https://octo-ring.com/p/sayatodev/next">Next</a> ]
+</p>
