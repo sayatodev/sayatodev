@@ -2,7 +2,7 @@
 おっす！さやとです！<br>
 <p style="font-size:8px">Hi there! I'm Sayato.</p>
 </h1>
-<h3 align="center">A secondary school student in Hong Kong</h3>
+<h3 align="center">A student in Hong Kong</h3>
 <p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N2)</p> 
 
 <p align="center">
