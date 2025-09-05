@@ -30,8 +30,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayatodev&theme=nord_dark"></p>  
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayatodev&theme=nord_dark">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayatodev&theme=nord_dark&utcOffset=8"></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayatodev&theme=nord_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayatodev&theme=nord_dark&utcOffset=8"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayatodev&layout=compact&theme=one_dark_pro">&nbsp;&nbsp;</p>
 
 <p align="center">
 Check out potentially cooler people on <a href="https://octo-ring.com/">Octo Ring</a> [
