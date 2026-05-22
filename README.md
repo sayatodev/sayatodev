@@ -13,8 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/zqma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="sayatohk" height="30" width="40" /></a>
-<a href="https://twitter.com/sayatohk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayatohk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zqma" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?_=20210220164014" alt="zqma" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
