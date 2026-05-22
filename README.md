@@ -3,7 +3,7 @@
 <p style="font-size:8px">Hi there! I'm Sayako.</p>
 </h1>
 <h3 align="center">A student in Hong Kong</h3>
-<p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N2)</p> 
+<p align="center">🌐 <strong>中文</strong> / English / 日本語(JLPT N1)</p> 
 
 <p align="center">
 🌱 I’m currently learning how to write interpreters on <strong><a href="https://github.com/munificent/craftinginterpreters">Crafting Interpreters</a></strong><br>
@@ -13,6 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://linkedin.com/in/zqma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="sayatohk" height="30" width="40" /></a>
 <a href="https://twitter.com/sayatohk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayatohk" height="30" width="40" /></a>
 </p>
 
